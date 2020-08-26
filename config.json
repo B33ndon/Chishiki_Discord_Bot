@@ -1,0 +1,10 @@
+{
+	"version": "Version 1.0",
+	"color": "#8f0e45",
+	"owner": "brendanprice#0001",
+	"ownerID": "326058698067804173",
+	"prefix": "c!",
+	"nodes": [
+		{ "host": "localhost", "port": "7000", "password": "BrendanPrice"}
+	]
+}

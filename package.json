@@ -1,0 +1,43 @@
+{
+  "name": "chishiki",
+  "version": "1.0.0",
+  "description": "multipurpose, community driven bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lavalink": "java -jar Lavalink.jar"
+  },
+  "author": "B33ndon#0001",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "erela.js": "^1.1.8",
+    "fs": "0.0.1-security",
+    "genius": "0.0.2",
+    "genius-lyrics": "^3.0.0",
+    "lavalink": "^2.10.0",
+    "meal": "^1.2.2",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "puppeteer": "^3.2.0",
+    "quick.db": "^7.1.1",
+    "quickdb": "^1.0.5",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "stable": "^0.1.8",
+    "superagent": "^5.3.1",
+    "vultrex.db": "^1.4.1",
+    "youtube-search": "^1.1.4",
+    "yql": "^1.0.2",
+    "ytdl-core": "^2.1.5"
+  }
+}
